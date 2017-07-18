@@ -1,4 +1,4 @@
-﻿<div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="modalMensaje" id="modalMensaje">
+<div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="modalMensaje" id="modalMensaje">
     <div class="modal-dialog modal-sm" role="document">
         <div class="modal-content">
             <div class="modal-header modal-header-personalizado">
